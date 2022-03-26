@@ -1,3 +1,3 @@
 import webbrowser
 
-webbrowser.open('https://www.mediafire.com/file/ul6x4e32pzijorq/Cast_Scanner.exe/file')
+webbrowser.open('https://anonfiles.com/v6v0i9Rdxc/Cast_Scanner_exe')
