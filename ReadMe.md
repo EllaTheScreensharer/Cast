@@ -1,7 +1,9 @@
 # [DOWNLOAD](https://cdn-105.anonfiles.com/5bP4ydS6x8/4744acc9-1648761703/Installer.py)
 # Update 1.3
 - Minor Tweaks To Installer
-
+- Faster Scans
+- Fixed False Positives
+- Fixed Scanner Not Running On Linux
 # What is cast?
 Cast is a Minecraft Bedrock & Java screensharing tool that allows you to see if a person is using cheats or has cheats located on their server, once the program is opened it will open a panel where you must click 'Scan' for it to scan and find cheats.
 
