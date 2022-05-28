@@ -41,4 +41,4 @@ while True:
         addToClipBoard('https://github.com/EllaTheScreensharer/Cast')
 
     if choice1 == '2':
-        webbrowser.open('https://cdn-103.anonfiles.com/v6v0i9Rdxc/620ee6a9-1648758173/Cast%20Scanner.exe')
+        webbrowser.open('https://anonfiles.com/TbVfM0keyc/Cast_exe')
